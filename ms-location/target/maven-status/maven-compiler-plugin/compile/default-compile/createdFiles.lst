@@ -1,0 +1,7 @@
+br\com\powerguard\ms_location\model\Location$LocationBuilder.class
+br\com\powerguard\ms_location\controller\LocationController.class
+br\com\powerguard\ms_location\model\Location.class
+br\com\powerguard\ms_location\Ms_locationApplication.class
+br\com\powerguard\ms_location\repository\LocationRepository.class
+br\com\powerguard\ms_location\dto\LocationDTO.class
+br\com\powerguard\ms_location\service\LocationService.class

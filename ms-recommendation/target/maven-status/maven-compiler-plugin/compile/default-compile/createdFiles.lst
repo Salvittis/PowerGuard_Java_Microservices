@@ -1,0 +1,7 @@
+br\com\powerguard\ms_recommendation\model\Recommendation.class
+br\com\powerguard\ms_recommendation\controller\RecommendationController.class
+br\com\powerguard\ms_recommendation\dto\RecommendationDTO.class
+br\com\powerguard\ms_recommendation\Ms_recommendationApplication.class
+br\com\powerguard\ms_recommendation\service\RecommendationService.class
+br\com\powerguard\ms_recommendation\model\Recommendation$RecommendationBuilder.class
+br\com\powerguard\ms_recommendation\repository\RecommendationRepository.class

@@ -1,0 +1,9 @@
+br\com\powerguard\ms_user\model\User$UserBuilder.class
+br\com\powerguard\ms_user\Ms_userApplication.class
+br\com\powerguard\ms_user\service\UserService.class
+br\com\powerguard\ms_user\dto\UserResponseDTO.class
+br\com\powerguard\ms_user\model\User.class
+br\com\powerguard\ms_user\dto\UserLoginDTO.class
+br\com\powerguard\ms_user\dto\UserRegisterDTO.class
+br\com\powerguard\ms_user\controller\UserController.class
+br\com\powerguard\ms_user\repository\UserRepository.class
