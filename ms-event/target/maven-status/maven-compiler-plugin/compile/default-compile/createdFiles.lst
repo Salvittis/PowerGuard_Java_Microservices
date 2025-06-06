@@ -1,0 +1,7 @@
+br\com\powerguard\ms_event\dto\EventDTO.class
+br\com\powerguard\ms_event\controller\EventController.class
+br\com\powerguard\ms_event\Ms_eventApplication.class
+br\com\powerguard\ms_event\repository\EventRepository.class
+br\com\powerguard\ms_event\model\Event.class
+br\com\powerguard\ms_event\service\EventService.class
+br\com\powerguard\ms_event\model\Event$EventBuilder.class
