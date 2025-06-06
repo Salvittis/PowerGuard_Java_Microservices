@@ -1,0 +1,9 @@
+br\com\powerguard\ms_admin\model\AdminLog$AdminLogBuilder.class
+br\com\powerguard\ms_admin\controller\AdminController.class
+br\com\powerguard\ms_admin\model\AdminRule$AdminRuleBuilder.class
+br\com\powerguard\ms_admin\model\AdminRule.class
+br\com\powerguard\ms_admin\Ms_adminApplication.class
+br\com\powerguard\ms_admin\model\AdminLog.class
+br\com\powerguard\ms_admin\repository\AdminLogRepository.class
+br\com\powerguard\ms_admin\repository\AdminRuleRepository.class
+br\com\powerguard\ms_admin\service\AdminService.class
